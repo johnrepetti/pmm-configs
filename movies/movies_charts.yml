@@ -11,7 +11,7 @@ collections:
 ### CHARTS ###
   Popular Movies:
     template: { name: Chart, num: 1 }
-    imdb_chart: popular_movies
+    tmdb_popular: 50
     summary: Popular Movies across the internet
     url_poster: https://github.com/arkyntech/pmm-configs/raw/main/images/Movies/movies_popular.jpg?raw=true
   Most Watched Daily:
