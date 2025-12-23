@@ -23,13 +23,13 @@ collections:
         network: Amazon
     summary: A collection of Amazon content
     url_poster: https://github.com/arkyntech/pmm-configs/raw/main/images/Networks/network_prime.jpg?raw=true
-  Apple TV+:
+  Apple TV:
     template: { name: Originals }
     smart_filter:
       sort_by: originally_available.desc
       all:
         network: Apple TV
-    summary: A collection of AppleTV content
+    summary: A collection of Apple TV content
     url_poster: https://github.com/arkyntech/pmm-configs/raw/main/images/Networks/network_appletv.jpg
   Disney Plus:
     template: { name: Originals }
