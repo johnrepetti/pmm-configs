@@ -28,7 +28,7 @@ collections:
     smart_filter:
       sort_by: originally_available.desc
       all:
-        network: Apple TV+
+        network: appletv
     summary: A collection of AppleTV content
     url_poster: https://github.com/arkyntech/pmm-configs/raw/main/images/Networks/network_appletv.jpg
   Disney Plus:
