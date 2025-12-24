@@ -20,7 +20,7 @@ collections:
     smart_filter:
       sort_by: originally_available.desc
       all:
-        network: Amazon
+        network: Amazon Prime
     summary: A collection of Amazon content
     url_poster: https://github.com/arkyntech/pmm-configs/raw/main/images/Networks/network_prime.jpg?raw=true
   Apple TV:
