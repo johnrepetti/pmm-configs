@@ -9,7 +9,7 @@ templates:
     cache_builders: 1
 collections:
 ### CHARTS ###
-  Popular Shows:
+  Popular Series:
     template: { name: Chart, num: 1 }
     imdb_chart: popular_shows
     summary: Popular TV Shows across the internet
